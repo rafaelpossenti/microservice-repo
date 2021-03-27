@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: kotlin
+
+paginacao:
+  qtd_por_pagina: 25

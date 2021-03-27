@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: 'post'
+  data:
+    mongodb:
+      database: kotlin

@@ -9,7 +9,5 @@ management:
   endpoint:
     health:
       show-details: always
-    web:
-      exposure:
-        include: *
+
         

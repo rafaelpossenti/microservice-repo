@@ -1,11 +1,11 @@
 spring:
   application:
-    name: 'smart'
+    name: "smart"
   data:
     mongodb:
       database: kotlin
       
 token:
   expiration_time: 3600000
-  secret: hfgry463hf746hf573ydh475fhy5739
+  secret: "hfgry463hf746hf573ydh475fhy5739"
 

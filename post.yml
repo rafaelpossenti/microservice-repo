@@ -5,5 +5,11 @@ spring:
     mongodb:
       database: kotlin
 
-paginacao:
-  qtd_por_pagina: 25
+management:
+  endpoint:
+    health:
+      show-details: always
+    web:
+      exposure:
+        include: *
+        
